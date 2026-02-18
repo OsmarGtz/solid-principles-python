@@ -9,7 +9,6 @@ from processors import (
     RecurringPaymentProcessorProtocol,
     RefundProcessorProtocol,
 )
-from validators import CustomerValidator, PaymentDataValidator
 from factory import PaymentProcessorFactory
 
 

@@ -14,8 +14,6 @@ from processors import (
 
 from listeners import ListenersManager, AccountabilityListener
 from validators import (
-    CustomerValidator,
-    PaymentDataValidator,
     CustomerHandler,
     ChainHandler,
 )
